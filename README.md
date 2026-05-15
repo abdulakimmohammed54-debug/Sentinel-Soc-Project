@@ -162,7 +162,7 @@ Upon incident creation, the following automated response actions were triggered:
 ---
 
 ## Demo Video
-▶️ [Watch Full Project Walkthrough](#) *(link coming soon)*
+▶️ https://www.youtube.com/watch?v=QPKETkrW8Vo
 
 ---
 
