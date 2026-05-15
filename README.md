@@ -157,7 +157,8 @@ Upon incident creation, the following automated response actions were triggered:
 | 5 | Automated comment added to incident |
 | 6 | Email alert received by SOC |
 
-*(Screenshots folder coming soon / see demo video)*
+## Screenshots
+📁 [View All Screenshots](Screenshots/)
 
 ---
 
